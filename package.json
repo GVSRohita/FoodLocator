@@ -17,7 +17,7 @@
     "geocoder": "^0.2.3",
     "http-errors": "^1.7.3",
     "https": "^1.0.0",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "node-geocoder": "^3.26.0",
     "pug": "~2.0.4",
